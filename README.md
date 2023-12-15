@@ -5,7 +5,7 @@ Spendee is an Android Application developed in Android Studio using Java and Fir
 
 ## Contributors
 
-[Priyansh Shah](https://github.com/Priyansh42) ● [Hemit Rana](https://github.com/Hemit1409) ● [Jainil Rana](https://github.com/ancjainil) ● [Harshil Rana](https://github.com/harshil311) ● [Manan Shah](https://github.com/Manan2606)
+[Gautam](https://github.com/GautamDash1) ● [Adarsh Mohanty](https://github.com/adarsh516) 
 
 ## Purpose
 In today’s era, subscription services are common. Also you have the usual array of rent and utilities to pay. Plus, money these days is a little tighter than it used to be comparatively speaking and thus we can’t remember where our money goes.
